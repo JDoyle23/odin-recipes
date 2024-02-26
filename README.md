@@ -1,1 +1,1 @@
-# odin-recipes
+# Learning the basics of web design and GitHub
