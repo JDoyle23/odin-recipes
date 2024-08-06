@@ -1,1 +1,1 @@
-# odin-recipes
+An introduction into building web pages as my first project for Odin!
